@@ -1,2 +1,3 @@
-master one
-one two
+master
+one
+two
